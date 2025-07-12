@@ -8,11 +8,6 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-# Arquivos Markdown
-[*.md]
-trim_trailing_whitespace = false
-max_line_length = 80
-
 # Arquivos JavaScript/TypeScript
 [*.{js,jsx,ts,tsx}]
 quote_type = single
