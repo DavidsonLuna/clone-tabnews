@@ -1,4 +1,9 @@
 function Home() {
-  return <h1>'Frase de testes Frase de testes'</h1>;
+  return (
+    <h1>
+      "Tudo o que temos de decidir é o que fazer com o tempo que nos é dado" -
+      Gandalf
+    </h1>
+  );
 }
 export default Home;
